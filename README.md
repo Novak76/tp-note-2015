@@ -14,4 +14,4 @@ Voir différence entre fichier indexés et les modification non indexées :
 $ git diff --cached 
 
 Affiche les deux dernier commit et leur diff :
-
+$ git log -n 2
